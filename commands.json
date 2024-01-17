@@ -1,0 +1,27 @@
+[
+  {
+    "name": "crea_squadra",
+    "description": "Crea una nuova squadra",
+    "type": 1
+  },
+  {
+    "name": "torneo",
+    "description": "Inizia un nuovo torneo",
+    "type": 1
+  },
+  {
+    "name": "classifica",
+    "description": "Mostra la classifica delle squadre",
+    "type": 1
+  },
+  {
+    "name": "punteggio",
+    "description": "Registra il punteggio della tua squadra",
+    "type": 1
+  },
+  {
+    "name": "inserisci_punteggio",
+    "description": "Inserisci manualmente il punteggio della tua squadra",
+    "type": 1
+  }
+]
